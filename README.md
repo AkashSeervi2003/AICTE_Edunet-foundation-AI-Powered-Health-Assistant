@@ -17,7 +17,7 @@ Our assistant blends AI and data analysis to understand your health goals. It le
 Getting Started
 Installation
 Clone the Repository:
-git clone https://github.com/AkashSeervi2003/AICTE_Edunet-foundation-AI-Powered-Health-Assistant.git
+git clone https://github.com/AkashSeervi2003/AICTE_Edunet-foundation-AI-Powered-Health-Assistant-main.git
 
 Navigate to the Project Folder:
 cd Edunet-foundation-AI-Powered-Health-Assistant
