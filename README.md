@@ -25,8 +25,10 @@ Our AI-powered health assistant is created to make managing your health simple, 
 
 ### Installation and Running
 
-1. Clone the repository and navigate into the project folder:
-
 ```bash
 git clone https://github.com/AkashSeervi2003/AICTE_Edunet-foundation-AI-Powered-Health-Assistant.git
 cd AICTE_Edunet-foundation-AI-Powered-Health-Assistant
+pip install -r requirements.txt
+npm install
+python app.py
+npm start
