@@ -43,19 +43,34 @@ Key Highlights:
 - Offers a smooth, user-friendly interaction with instant response.
 
   1. Snapshot 1: Chatbot Processing Query
-     ![image](https://github.com/user-attachments/assets/2f52daf4-df9e-453f-bf56-bc2129d77cab)
+     
+     ![image](https://github.com/user-attachments/assets/1cfaad56-f5f4-4708-9699-1b2d6b476e25)
+     
      Chatbot Processing Query:
        - This screenshot shows the Healthcare Assistant Chatbot interface.
        - The user has entered the query "fever", and after clicking the Submit button, the chatbot is currently processing the query.
        - A message appears below indicating "Processing your query, please wait...", signifying that the backend is retrieving or generating a response.
 
   2. Snapshot 2: Chatbot Response Displayed
-    ![image](https://github.com/user-attachments/assets/94323bd3-23bb-4a65-b398-89c442b72d44)
+     
+     ![image](https://github.com/user-attachments/assets/a2460ded-81d6-483c-92e7-c69432a65e85)
+  
      Chatbot Response Displayed:
        - This screenshot captures the chatbot’s response after processing the query.
        - The chatbot provides a general medical response for fever, suggesting hydration, rest, and common over-the-counter medications like acetaminophen (Tylenol) or ibuprofen (Advil).
        - It also advises consulting a doctor if the fever is high or persistent.
        - This demonstrates that the chatbot is functioning correctly by generating informative healthcare-related responses.
+
+  3. Snapshot 3: Validation for Empty Query
+     
+     ![image](https://github.com/user-attachments/assets/1cfaad56-f5f4-4708-9699-1b2d6b476e25)
+     
+     Chatbot Processing Query:
+       - This screenshot shows the chatbot’s behaviour when the user submits an empty input.
+       - Instead of processing an empty request, the chatbot prompts the user with a message "Please enter a query.“
+       - This validation prevents the chatbot from attempting to generate responses for blank inputs, improving the user experience.
+   
+         
 
 
 
