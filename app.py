@@ -1,4 +1,5 @@
 import streamlit as st
+import time
 from transformers import pipeline
 import nltk
 from nltk.corpus import stopwords
@@ -38,6 +39,7 @@ def main():
         if user_input:
             st.write("User: ", user_input)
             with st.spinner("Processing your query, please wait..."):
+                time.sleep(5) 
                 response = healthcare_chatbot(user_input)
             st.write("Healthcare Assistant: ", response)
         else:
